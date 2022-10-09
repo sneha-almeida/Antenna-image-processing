@@ -1,6 +1,6 @@
 # Antenna Image Processing
 
-Processing-Signal-Images-to-Detect-Signals-in-Specific-Color-and-Locating-Required-Co-ordinates
+Processing Signal Images to Detect Signals in Specific Color and Locating Required Co-ordinates
 
 A system was getting image files of the following form:
 
